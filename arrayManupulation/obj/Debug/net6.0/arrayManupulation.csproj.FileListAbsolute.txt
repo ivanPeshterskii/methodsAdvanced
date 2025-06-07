@@ -1,0 +1,15 @@
+/Users/ivanpeshterski/Projects/arrayManupulation/bin/Debug/net6.0/arrayManupulation
+/Users/ivanpeshterski/Projects/arrayManupulation/bin/Debug/net6.0/arrayManupulation.deps.json
+/Users/ivanpeshterski/Projects/arrayManupulation/bin/Debug/net6.0/arrayManupulation.runtimeconfig.json
+/Users/ivanpeshterski/Projects/arrayManupulation/bin/Debug/net6.0/arrayManupulation.dll
+/Users/ivanpeshterski/Projects/arrayManupulation/bin/Debug/net6.0/arrayManupulation.pdb
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/arrayManupulation.csproj.AssemblyReference.cache
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/arrayManupulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/arrayManupulation.AssemblyInfoInputs.cache
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/arrayManupulation.AssemblyInfo.cs
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/arrayManupulation.csproj.CoreCompileInputs.cache
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/arrayManupulation.dll
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/refint/arrayManupulation.dll
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/arrayManupulation.pdb
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/arrayManupulation.genruntimeconfig.cache
+/Users/ivanpeshterski/Projects/arrayManupulation/obj/Debug/net6.0/ref/arrayManupulation.dll
